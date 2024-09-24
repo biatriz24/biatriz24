@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @biatriz24
+- Cursando Interdisciplinar em Ciências e Tecnologia pela Universidade Federal Rural do Semi-Árido (UFERSA)
 
 
 <!---
