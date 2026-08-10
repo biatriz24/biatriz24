@@ -1,15 +1,11 @@
 # 👋 Hi, I'm Beatriz!
 
-🎓 Bachelor's student in Science and Technology (CET) at UFERSA.
-
-💻 Currently focused on programming in **C** and developing my skills in Computer Engineering.
-
 ### 🚀 About Me
-
-- 🎓 Science and Technology student at UFERSA
-- 💻 C programming
-- 🧠 Interested in Computer Engineering, algorithms and problem solving
-- 🌱 Always learning and improving my skills
+- 🎓 Estudante de Ciência e Tecnologia na UFERSA
+- 💻 Programação em C
+- 🧠 Interessada em Engenharia da Computação, algoritmos e resolução de problemas
+- 🏛️ Secretariado do Diretório Central dos Estudantes (DCE) — UFERSA
+- 🚀 Integrante do Núcleo de Incubação Tecnológica e Social ( NITS) da UFERSA — atuação em Marketing
 
 ### 🛠️ Technologies
 
